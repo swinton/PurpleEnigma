@@ -1,0 +1,5 @@
+-i http://prod-util-repo01.aws.e2.ma:6543/index/
+coverage==3.6
+mock==1.0.1
+nose==1.3.0
+pycrypto==2.6.1
